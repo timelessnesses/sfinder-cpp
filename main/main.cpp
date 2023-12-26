@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <random>
+#include <chrono>
 #include <core/moves.hpp>
 
 #include "core/field.hpp"

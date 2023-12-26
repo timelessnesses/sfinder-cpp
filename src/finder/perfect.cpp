@@ -1,4 +1,5 @@
 #include "perfect.hpp"
+#include <climits>
 
 namespace finder {
     namespace {
